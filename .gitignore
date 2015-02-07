@@ -8,6 +8,9 @@
 /log/*.log
 /tmp
 
+# Ignore RSA keys
+key.*
+
 # Ignore other files
 doc/
 *.swp
